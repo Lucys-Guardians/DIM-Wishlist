@@ -1,4 +1,4 @@
-# Lucy's Guardiens
+# Lucy's Guardians
 Did you find the oversoul?
 
 
