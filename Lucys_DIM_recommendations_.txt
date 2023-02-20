@@ -1,5 +1,11 @@
 title:Lucy's DIM recommendations 
 
+// Zaouli's Bane - #lucycertified  ()
+//notes: #lucycertified 
+Great perks, but it feels awkward to use
+dimwishlist:item=431721920&perks=1840239774,3230963543,64866129,2675184851
+
+
 // Wendigo GL3 (Adept) - #lucycertified #burstdps ()
 //notes: #lucycertified #burstdps
 dimwishlist:item=555148853&perks=981914802,3301904089,3300816228,3194351027,2839173408
@@ -9,6 +15,12 @@ dimwishlist:item=555148853&perks=3525010810,3301904089,3300816228,3194351027,283
 // Cataclysmic - #lucycertified #sustaineddps (god-pve)
 //notes: #lucycertified #sustaineddps tags:god-pve
 dimwishlist:item=999767358&perks=1840239774,2680121939,848860060,3744057135
+
+
+// Qullim's Terminus - #lucycertified ()
+//notes: #lucycertified
+Constant health regen + group add clear
+dimwishlist:item=1321506184&perks=1840239774,3230963543,855168139,1183436451
 
 
 // Doom of Chelchis - #lucycertified ()
@@ -26,13 +38,16 @@ dimwishlist:item=1959650777&perks=3525010810,3796465595,3528046508,3007133316
 dimwishlist:item=1959650777&perks=3525010810,3796465595,1906147653,3007133316
 
 
-// Bump in the Night ()
-dimwishlist:item=1959650777&perks=
-
-
 // IKELOS_SMG_v1.0.3 - #lucycertified (god-pve)
 //notes: #lucycertified tags:god-pve
 dimwishlist:item=2149683300&perks=1840239774,3230963543,1171147302,3007133316
+
+
+// Smite of Merain - #lucycertified  ()
+//notes: #lucycertified 
+Ability based pulse, add clear weapon 
+dimwishlist:item=2221264583&perks=839105230,3230963543,1906147653,859780267
+dimwishlist:item=2221264583&perks=839105230,3230963543,1906147653,1183436451
 
 
 // CALUS Mini-Tool - #lucycertified (god-pve)
@@ -44,6 +59,22 @@ dimwishlist:item=2490988246&perks=1840239774,3230963543,494941759,2675184851
 //notes: #lucycertified #burstdps tags:pve
 dimwishlist:item=3183283212&perks=981914802,3301904089,3300816228,3194351027,2839173408
 
+
+// Defiance of Yasmin - #lucycertified  ()
+//notes: #lucycertified  
+Suddenly the best DPS legendary sniper in the game
+dimwishlist:item=3228096719&perks=1840239774,2420895100,3442762221,395388285
+
+
 // Insidious - #lucycertified ()
 //notes: #lucycertified
 dimwishlist:item=3428521585&perks=839105230,106909392,2938480696,859780267
+
+
+// Midha's Reckoning - #lucycertified  ()
+//notes: #lucycertified 
+S tier perks on an F tier archetype
+dimwishlist:item=3969066556&perks=839105230,689005463,2308090567,254337357
+dimwishlist:item=3969066556&perks=839105230,689005463,855168139,254337357
+
+
