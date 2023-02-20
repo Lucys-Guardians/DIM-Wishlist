@@ -200,6 +200,108 @@
                 ]
             ],
             "tags": []
+        },
+        {
+            "description": "#lucycertified  \nSuddenly the best DPS legendary sniper in the game",
+            "hash": 3228096719,
+            "name": "#lucycertified ",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    3442762221
+                ],
+                [
+                    395388285
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "#lucycertified\nConstant health regen + group add clear",
+            "hash": 1321506184,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    855168139
+                ],
+                [
+                    1183436451
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "#lucycertified \nGreat perks, but it feels awkward to use",
+            "hash": 431721920,
+            "name": "#lucycertified ",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    64866129
+                ],
+                [
+                    2675184851
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "#lucycertified \nAbility based pulse, add clear weapon ",
+            "hash": 2221264583,
+            "name": "#lucycertified ",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1906147653
+                ],
+                [
+                    859780267,
+                    1183436451
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "#lucycertified \nS tier perks on an F tier archetype",
+            "hash": 3969066556,
+            "name": "#lucycertified ",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    689005463
+                ],
+                [
+                    2308090567,
+                    855168139
+                ],
+                [
+                    254337357
+                ]
+            ],
+            "tags": []
         }
     ]
 }
