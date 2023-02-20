@@ -1,8 +1,7 @@
 title:Lucy's DIM recommendations 
 
 // Zaouli's Bane - #lucycertified  ()
-//notes: #lucycertified 
-Great perks, but it feels awkward to use
+//notes: Great perks, but it feels awkward to use #lucycertified 
 dimwishlist:item=431721920&perks=1840239774,3230963543,64866129,2675184851
 
 
@@ -18,13 +17,12 @@ dimwishlist:item=999767358&perks=1840239774,2680121939,848860060,3744057135
 
 
 // Qullim's Terminus - #lucycertified ()
-//notes: #lucycertified
-Constant health regen + group add clear
+//notes: Constant health regen + group add clear #lucycertified
 dimwishlist:item=1321506184&perks=1840239774,3230963543,855168139,1183436451
 
 
 // Doom of Chelchis - #lucycertified ()
-//notes: #lucycertified
+//notes: One of the best scouts in the game, constant +50% damage #lucycertified
 dimwishlist:item=1937552980&perks=1840239774,3230963543,64866129,859780267
 
 
@@ -44,8 +42,7 @@ dimwishlist:item=2149683300&perks=1840239774,3230963543,1171147302,3007133316
 
 
 // Smite of Merain - #lucycertified  ()
-//notes: #lucycertified 
-Ability based pulse, add clear weapon 
+//notes: Ability based pulse, add clear weapon #lucycertified 
 dimwishlist:item=2221264583&perks=839105230,3230963543,1906147653,859780267
 dimwishlist:item=2221264583&perks=839105230,3230963543,1906147653,1183436451
 
@@ -61,8 +58,7 @@ dimwishlist:item=3183283212&perks=981914802,3301904089,3300816228,3194351027,283
 
 
 // Defiance of Yasmin - #lucycertified  ()
-//notes: #lucycertified  
-Suddenly the best DPS legendary sniper in the game
+//notes: Suddenly the best DPS legendary sniper in the game #lucycertified  
 dimwishlist:item=3228096719&perks=1840239774,2420895100,3442762221,395388285
 
 
@@ -72,8 +68,7 @@ dimwishlist:item=3428521585&perks=839105230,106909392,2938480696,859780267
 
 
 // Midha's Reckoning - #lucycertified  ()
-//notes: #lucycertified 
-S tier perks on an F tier archetype
+//notes: S tier perks on an F tier archetype #lucycertified 
 dimwishlist:item=3969066556&perks=839105230,689005463,2308090567,254337357
 dimwishlist:item=3969066556&perks=839105230,689005463,855168139,254337357
 
