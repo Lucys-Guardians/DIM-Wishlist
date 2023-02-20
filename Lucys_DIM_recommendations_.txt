@@ -5,4 +5,10 @@ title:Lucy's DIM recommendations
 dimwishlist:item=555148853&perks=981914802,3301904089,3300816228,3194351027,2839173408
 dimwishlist:item=555148853&perks=3525010810,3301904089,3300816228,3194351027,2839173408
 
+// Wendigo GL3 (pve)
+//notes: Imagine not having the adept version tags:pve
+dimwishlist:item=3183283212&perks=981914802,3301904089,3300816228,3194351027,2839173408
 
+// Cataclysmic
+//notes: Crafted version
+dimwishlist:item=999767358&perks=1840239774,2680121939,848860060,3744057135
