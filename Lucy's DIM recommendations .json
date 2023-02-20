@@ -1,0 +1,165 @@
+{
+    "description": "",
+    "name": "Lucy's DIM recommendations ",
+    "data": [
+        {
+            "description": "#lucycertified #burstdps",
+            "hash": 555148853,
+            "name": "#lucycertified #burstdps",
+            "plugs": [
+                [
+                    981914802,
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    3194351027
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "#lucycertified #burstdps",
+            "hash": 3183283212,
+            "name": "#lucycertified #burstdps",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    3194351027
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "#lucycertified #sustaineddps",
+            "hash": 999767358,
+            "name": "#lucycertified #sustaineddps",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    848860060
+                ],
+                [
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "#lucycertified #hotswapdps",
+            "hash": 1959650777,
+            "name": "#lucycertified #hotswapdps",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3528046508
+                ],
+                [
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "#lucycertified #hotswapdps #warlock",
+            "hash": 1959650777,
+            "name": "#lucycertified #hotswapdps #warlock",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    1906147653
+                ],
+                [
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "#lucycertified",
+            "hash": 2149683300,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1171147302
+                ],
+                [
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "#lucycertified",
+            "hash": 2490988246,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    494941759
+                ],
+                [
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        }
+    ]
+}
