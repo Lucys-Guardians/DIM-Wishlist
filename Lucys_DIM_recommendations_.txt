@@ -1,14 +1,36 @@
 title:Lucy's DIM recommendations 
 
-// Wendigo GL3 (Adept) - PvE godroll (god-pve)
+// Wendigo GL3 (Adept) - #lucycertified #burstdps (god-pve)
 //notes: Best Overall Wendigo tags:god-pve
 dimwishlist:item=555148853&perks=981914802,3301904089,3300816228,3194351027,2839173408
 dimwishlist:item=555148853&perks=3525010810,3301904089,3300816228,3194351027,2839173408
 
-// Wendigo GL3 (pve)
+
+// Cataclysmic - #lucycertified #sustaineddps (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=999767358&perks=1840239774,2680121939,848860060,3744057135
+
+
+// Bump in the Night - #lucycertified #hotswapdps (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1959650777&perks=3525010810,3796465595,3528046508,3007133316
+
+
+// Bump in the Night - #lucycertified #hotswapdps #warlock (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1959650777&perks=3525010810,3796465595,1906147653,3007133316
+
+
+// IKELOS_SMG_v1.0.3 - #lucycertified (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2149683300&perks=1840239774,3230963543,1171147302,3007133316
+
+
+// CALUS Mini-Tool - #lucycertified (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2490988246&perks=1840239774,3230963543,494941759,2675184851
+
+
+// Wendigo GL3 - #lucycertified #burstdps (pve)
 //notes: Imagine not having the adept version tags:pve
 dimwishlist:item=3183283212&perks=981914802,3301904089,3300816228,3194351027,2839173408
-
-// Cataclysmic
-//notes: Crafted version
-dimwishlist:item=999767358&perks=1840239774,2680121939,848860060,3744057135
