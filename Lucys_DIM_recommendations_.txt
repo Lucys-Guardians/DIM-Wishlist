@@ -1,0 +1,8 @@
+title:Lucy's DIM recommendations 
+
+// Wendigo GL3 (Adept) - PvE godroll (god-pve)
+//notes: Best Overall Wendigo tags:god-pve
+dimwishlist:item=555148853&perks=981914802,3301904089,3300816228,3194351027,2839173408
+dimwishlist:item=555148853&perks=3525010810,3301904089,3300816228,3194351027,2839173408
+
+
