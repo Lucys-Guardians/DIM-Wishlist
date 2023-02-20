@@ -26,6 +26,10 @@ dimwishlist:item=1959650777&perks=3525010810,3796465595,3528046508,3007133316
 dimwishlist:item=1959650777&perks=3525010810,3796465595,1906147653,3007133316
 
 
+// Bump in the Night ()
+dimwishlist:item=1959650777&perks=
+
+
 // IKELOS_SMG_v1.0.3 - #lucycertified (god-pve)
 //notes: #lucycertified tags:god-pve
 dimwishlist:item=2149683300&perks=1840239774,3230963543,1171147302,3007133316
@@ -40,4 +44,6 @@ dimwishlist:item=2490988246&perks=1840239774,3230963543,494941759,2675184851
 //notes: #lucycertified #burstdps tags:pve
 dimwishlist:item=3183283212&perks=981914802,3301904089,3300816228,3194351027,2839173408
 
-
+// Insidious - #lucycertified ()
+//notes: #lucycertified
+dimwishlist:item=3428521585&perks=839105230,106909392,2938480696,859780267
