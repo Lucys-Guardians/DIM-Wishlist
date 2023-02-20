@@ -1,5 +1,5 @@
 # Lucy's Guardiens
-"Did you find the oversoul?"
+Did you find the oversoul?
 
 
 
