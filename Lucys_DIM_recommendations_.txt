@@ -11,6 +11,11 @@ dimwishlist:item=555148853&perks=3525010810,3301904089,3300816228,3194351027,283
 dimwishlist:item=999767358&perks=1840239774,2680121939,848860060,3744057135
 
 
+// Doom of Chelchis - #lucycertified ()
+//notes: #lucycertified
+dimwishlist:item=1937552980&perks=1840239774,3230963543,64866129,859780267
+
+
 // Bump in the Night - #lucycertified #hotswapdps (god-pve)
 //notes: #lucycertified #hotswapdps tags:god-pve
 dimwishlist:item=1959650777&perks=3525010810,3796465595,3528046508,3007133316
@@ -34,3 +39,5 @@ dimwishlist:item=2490988246&perks=1840239774,3230963543,494941759,2675184851
 // Wendigo GL3 - #lucycertified #burstdps (pve)
 //notes: #lucycertified #burstdps tags:pve
 dimwishlist:item=3183283212&perks=981914802,3301904089,3300816228,3194351027,2839173408
+
+
