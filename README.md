@@ -1,7 +1,7 @@
-# Lucy-s-Guardiens
-A repository to maintain a list of best weapons! 
+# Lucy's Guardiens
 
 
+About 
 Our clan is developed around fun and friendship first, skills and achievements second. The skill level within the clan varies from very new players to D1 Alpha veterans, this combination of players allows us to beat every aspect of the game such as nightfall's, raids and occasionally some of us even go flawless in trials :).
 
 Many of the veterans are more than willing to spend more than a few hours to help other guardians completing achievements.
@@ -13,3 +13,5 @@ When joining a game, ensure that you're in the Discord. so that we can communica
 Discord server: https://discord.gg/V6Wbt8b7Nk
 The100 clan page:https://www.the100.io/groups/5473
 Bungie: https://www.bungie.net/en/ClanV2?groupid=1994008
+
+This repository is created to maintain a list of best weapons that are approved by Lucy's Guardians :-) ! 
