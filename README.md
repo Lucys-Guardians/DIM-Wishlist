@@ -1,7 +1,7 @@
 # Lucy's Guardiens
 
 
-About 
+## About 
 Our clan is developed around fun and friendship first, skills and achievements second. The skill level within the clan varies from very new players to D1 Alpha veterans, this combination of players allows us to beat every aspect of the game such as nightfall's, raids and occasionally some of us even go flawless in trials :).
 
 Many of the veterans are more than willing to spend more than a few hours to help other guardians completing achievements.
