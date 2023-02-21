@@ -52,7 +52,7 @@
             ]
         },
         {
-            "description": "#lucycertified #sustaineddps",
+            "description": "Still king for long dps phases with good ammo economy #lucycertified #sustaineddps",
             "hash": 999767358,
             "name": "#lucycertified #sustaineddps",
             "plugs": [
@@ -67,11 +67,12 @@
                 ],
                 [
                     3744057135
+                ],
+                [
+                    3363267119
                 ]
             ],
-            "tags": [
-                "GodPVE"
-            ]
+            "tags": []
         },
         {
             "description": "#lucycertified #hotswapdps",
