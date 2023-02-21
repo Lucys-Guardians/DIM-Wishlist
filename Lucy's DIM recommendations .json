@@ -1165,6 +1165,53 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "Reload MW #lucycertified ",
+            "hash": 1572896086,
+            "name": "#lucycertified ",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    1409206216,
+                    1583705720
+                ],
+                [
+                    1171887445,
+                    124408337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Reload MW #lucycertified ",
+            "hash": 1572896086,
+            "name": "#lucycertified ",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    2308090567
+                ],
+                [
+                    4104185692,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
