@@ -44,6 +44,12 @@ dimwishlist:item=768621510&perks=839105230,2680121939,1906147653,2978966579
 dimwishlist:item=768621510&perks=839105230,2680121939,1906147653,344235611
 
 
+// Aurvandil FR6 - #lucycertified (pve)
+//notes: Handling MW
+#lucycertified tags:pve
+dimwishlist:item=963710795&perks=1840239774,2680121939,1523832109,2978966579
+
+
 // Cataclysmic - #lucycertified #sustaineddps ()
 //notes: Still king for long dps phases with good ammo economy #lucycertified #sustaineddps
 dimwishlist:item=999767358&perks=1840239774,2680121939,848860060,3078487919,3363267119

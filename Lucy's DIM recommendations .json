@@ -1235,6 +1235,28 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "Handling MW\n#lucycertified",
+            "hash": 963710795,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    1523832109
+                ],
+                [
+                    2978966579
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
