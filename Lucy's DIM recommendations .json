@@ -1167,7 +1167,7 @@
             ]
         },
         {
-            "description": "Reload MW #lucycertified ",
+            "description": "Reload MW \nCertified Moops pick \n#lucycertified ",
             "hash": 1572896086,
             "name": "#lucycertified ",
             "plugs": [
@@ -1191,7 +1191,7 @@
             ]
         },
         {
-            "description": "Reload MW #lucycertified ",
+            "description": "Reload MW \nCertified Moops pick \n#lucycertified ",
             "hash": 1572896086,
             "name": "#lucycertified ",
             "plugs": [
@@ -1207,6 +1207,29 @@
                 [
                     4104185692,
                     3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Any MW \nCertified Moops pick <3\n#lucycertified #sustaineddps",
+            "hash": 2302346155,
+            "name": "#lucycertified #sustaineddps",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    848860060,
+                    1354429876
+                ],
+                [
+                    2002547233
                 ]
             ],
             "tags": [

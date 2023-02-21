@@ -69,7 +69,9 @@ dimwishlist:item=1392919471&perks=1840239774,461595545,2402480669
 
 
 // Recurrent Impact - #lucycertified  (pve)
-//notes: Reload MW #lucycertified  tags:pve
+//notes: Reload MW 
+Certified Moops pick 
+#lucycertified  tags:pve
 dimwishlist:item=1572896086&perks=1840239774,2420895100,1409206216,1171887445
 dimwishlist:item=1572896086&perks=1840239774,2420895100,1409206216,124408337
 dimwishlist:item=1572896086&perks=1840239774,2420895100,1583705720,1171887445
@@ -77,7 +79,9 @@ dimwishlist:item=1572896086&perks=1840239774,2420895100,1583705720,124408337
 
 
 // Recurrent Impact - #lucycertified  (pve)
-//notes: Reload MW #lucycertified  tags:pve
+//notes: Reload MW 
+Certified Moops pick 
+#lucycertified  tags:pve
 dimwishlist:item=1572896086&perks=1840239774,2420895100,2308090567,4104185692
 dimwishlist:item=1572896086&perks=1840239774,2420895100,2308090567,3007133316
 
@@ -183,6 +187,14 @@ dimwishlist:item=2221264583&perks=839105230,3230963543,1906147653,1183436451
 //notes: Just in case linears don't get nerfed into the ground #lucycertified tags:pve
 dimwishlist:item=2272041093&perks=1840239774,1483536627,2308090567,4104185692
 dimwishlist:item=2272041093&perks=1840239774,1483536627,2308090567,3007133316
+
+
+// IKELOS_SR_v1.0.3 - #lucycertified #sustaineddps (pve)
+//notes: Any MW 
+Certified Moops pick <3
+#lucycertified #sustaineddps tags:pve
+dimwishlist:item=2302346155&perks=1840239774,106909392,848860060,2002547233
+dimwishlist:item=2302346155&perks=1840239774,106909392,1354429876,2002547233
 
 
 // Wilderflight - #lucycertified (pve)
