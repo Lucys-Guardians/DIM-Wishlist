@@ -3,12 +3,11 @@
     "name": "Lucy's DIM recommendations ",
     "data": [
         {
-            "description": "#lucycertified #burstdps",
+            "description": "Strong contender for the upcoming DPS meta #lucycertified #burstdps",
             "hash": 555148853,
             "name": "#lucycertified #burstdps",
             "plugs": [
                 [
-                    981914802,
                     3525010810
                 ],
                 [
@@ -66,6 +65,7 @@
                     848860060
                 ],
                 [
+                    3078487919,
                     3744057135
                 ],
                 [
@@ -75,7 +75,7 @@
             "tags": []
         },
         {
-            "description": "#lucycertified #hotswapdps",
+            "description": "Works good in combination with Izanagi's Burden honed edge. #lucycertified #hotswapdps",
             "hash": 1959650777,
             "name": "#lucycertified #hotswapdps",
             "plugs": [
@@ -89,6 +89,7 @@
                     3528046508
                 ],
                 [
+                    4104185692,
                     3007133316
                 ]
             ],
@@ -97,7 +98,7 @@
             ]
         },
         {
-            "description": "#lucycertified #hotswapdps #warlock",
+            "description": "Demolitionist for Solar and fusion nade build#lucycertified #hotswapdps #warlock",
             "hash": 1959650777,
             "name": "#lucycertified #hotswapdps #warlock",
             "plugs": [
@@ -111,6 +112,7 @@
                     1906147653
                 ],
                 [
+                    4104185692,
                     3007133316
                 ]
             ],
@@ -119,7 +121,7 @@
             ]
         },
         {
-            "description": "#lucycertified",
+            "description": "Best add clearing primary in the game #lucycertified",
             "hash": 2149683300,
             "name": "#lucycertified",
             "plugs": [
@@ -130,10 +132,12 @@
                     3230963543
                 ],
                 [
+                    2779035018,
                     1171147302
                 ],
                 [
-                    3007133316
+                    2173046394,
+                    1720528630
                 ]
             ],
             "tags": [
@@ -141,7 +145,7 @@
             ]
         },
         {
-            "description": "#lucycertified",
+            "description": "General purpose solar primary #lucycertified",
             "hash": 2490988246,
             "name": "#lucycertified",
             "plugs": [
@@ -152,6 +156,7 @@
                     3230963543
                 ],
                 [
+                    4071163871,
                     494941759
                 ],
                 [
@@ -174,9 +179,11 @@
                     3230963543
                 ],
                 [
+                    3038247973,
                     64866129
                 ],
                 [
+                    4049631843,
                     859780267
                 ]
             ],
@@ -194,9 +201,11 @@
                     106909392
                 ],
                 [
+                    247725512,
                     2938480696
                 ],
                 [
+                    4049631843,
                     859780267
                 ]
             ],
@@ -205,7 +214,7 @@
         {
             "description": "Suddenly the best DPS legendary sniper in the game #lucycertified  ",
             "hash": 3228096719,
-            "name": "#lucycertified ",
+            "name": "#lucycertified",
             "plugs": [
                 [
                     1840239774
@@ -217,15 +226,16 @@
                     3442762221
                 ],
                 [
+                    1771339417,
                     395388285
                 ]
             ],
             "tags": []
         },
         {
-            "description": "Constant health regen + group add clear #lucycertified",
+            "description": "Constant health regen + group add clear #lucycertified #addclear",
             "hash": 1321506184,
-            "name": "#lucycertified",
+            "name": "#lucycertified #addclear",
             "plugs": [
                 [
                     1840239774
@@ -234,9 +244,11 @@
                     3230963543
                 ],
                 [
+                    3108830275,
                     855168139
                 ],
                 [
+                    3824105627,
                     1183436451
                 ]
             ],
@@ -254,6 +266,7 @@
                     3230963543
                 ],
                 [
+                    3038247973,
                     64866129
                 ],
                 [
@@ -263,7 +276,7 @@
             "tags": []
         },
         {
-            "description": "Ability based pulse, add clear weapon #lucycertified ",
+            "description": "Ability based pulse #lucycertified ",
             "hash": 2221264583,
             "name": "#lucycertified ",
             "plugs": [
@@ -274,9 +287,12 @@
                     3230963543
                 ],
                 [
+                    3523296417,
                     1906147653
                 ],
                 [
+                    4049631843,
+                    3824105627,
                     859780267,
                     1183436451
                 ]
@@ -295,14 +311,860 @@
                     689005463
                 ],
                 [
-                    2308090567,
-                    855168139
+                    3108830275,
+                    2869569095,
+                    855168139,
+                    2308090567
                 ],
                 [
+                    1427256713,
                     254337357
                 ]
             ],
             "tags": []
+        },
+        {
+            "description": "#lucycertified #sustaineddps #addclear",
+            "hash": 3103325054,
+            "name": "#lucycertified #sustaineddps #addclear",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    1354429876,
+                    848860060
+                ],
+                [
+                    2939589096
+                ],
+                [
+                    192157151
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "#lucycertified #dps",
+            "hash": 1959650777,
+            "name": "#lucycertified #dps",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    2308090567
+                ],
+                [
+                    4104185692,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Lasting Impression is better, but is it? #lucycertified #dps",
+            "hash": 3175851496,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    2308090567
+                ],
+                [
+                    4104185692,
+                    3927722942,
+                    3007133316,
+                    1167468626
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "The only craftable blinding GL in the game #lucycertified #crowdcontrol",
+            "hash": 3849810018,
+            "name": "#lucycertified #crowdcontrol",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    3528046508
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Worse than Forbearance, but that one is from a raid #lucycertified",
+            "hash": 4096943616,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3300816228,
+                    3528046508
+                ],
+                [
+                    4104185692,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Just in case linears don't get nerfed into the ground #lucycertified",
+            "hash": 2272041093,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1483536627
+                ],
+                [
+                    2308090567
+                ],
+                [
+                    4104185692,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Better than Fire and Forget / Likely to get nerfed harder #lucycertified",
+            "hash": 1911060537,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    3400784728,
+                    573122728
+                ],
+                [
+                    1771339417,
+                    395388285
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Monster add clear and it's getting a good buff #lucycertified #addclear",
+            "hash": 2194955522,
+            "name": "#lucycertified #addclear",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    2308090567
+                ],
+                [
+                    2402480669
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Great general gameplay pulse #lucycertified",
+            "hash": 1751893422,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    247725512,
+                    2938480696
+                ],
+                [
+                    4049631843,
+                    859780267
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Synergizes Well(hehe) with solar 3.0 #lucycertified",
+            "hash": 2708806099,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "For all your arc scout needs #lucycertified",
+            "hash": 2218569744,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Is bow #lucycertified",
+            "hash": 232928045,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    16392701
+                ],
+                [
+                    3523746922
+                ],
+                [
+                    2652708987,
+                    617966211
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "#lucycertified #dps",
+            "hash": 4067556514,
+            "name": "#lucycertified #dps",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    2682205016
+                ],
+                [
+                    1771339417,
+                    395388285
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "#lucycertified #doublespecial",
+            "hash": 2827764482,
+            "name": "#lucycertified #doublespecial",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    732557052
+                ],
+                [
+                    3400784728,
+                    573122728
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "#lucycertified #doublespecial",
+            "hash": 2323544076,
+            "name": "#lucycertified #doublespecial",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    732557052
+                ],
+                [
+                    3442762221
+                ],
+                [
+                    776531651,
+                    2541826827
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "#lucycertified #doublespecial",
+            "hash": 548958835,
+            "name": "#lucycertified #doublespecial",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    732557052
+                ],
+                [
+                    1820235745,
+                    4245865861
+                ],
+                [
+                    2675184851
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Best general use sniper in the game #lucycertified",
+            "hash": 2990047042,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    461595545
+                ],
+                [
+                    1546637391,
+                    3418165135
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Slug with 12 in the mag and 2x damage on the first shot #lucycertified",
+            "hash": 4248569242,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    791862061
+                ],
+                [
+                    461595545
+                ],
+                [
+                    3335686050
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "The only primary that can have voltshot and a damage perk #lucycertified",
+            "hash": 3281285075,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ],
+                [
+                    4104185692,
+                    3007133316
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Great synergy between the origin trait and Incandescent #lucycertified",
+            "hash": 1392919471,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    461595545
+                ],
+                [
+                    2402480669
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "If you're looking at only crafting 1 raid weapon, this is it. #lucycertified #addclear #crowdcontrol",
+            "hash": 613334176,
+            "name": "#lucycertified #addclear #crowdcontrol",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2010801679,
+                    3797647183
+                ],
+                [
+                    2396489472,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Craftable, hard hitting chill clip fusion, must have. #lucycertified",
+            "hash": 768621510,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    2978966579,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Good SMG, could be better with the upcoming kinetic changes #lucycertified",
+            "hash": 3886416794,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1820235745,
+                    4245865861
+                ],
+                [
+                    4104185692,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Single highest utility special come Lightfall #lucycertified",
+            "hash": 2715240478,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    2978966579
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Best starfire grenade spam rocket #lucycertified #hotswapdps",
+            "hash": 4050645223,
+            "name": "#lucycertified #hotswapdps",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3300816228,
+                    3643424744
+                ],
+                [
+                    3523296417,
+                    1275731761
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Best starfire grenade spam rocket #lucycertified #hotswapdps",
+            "hash": 1921159786,
+            "name": "#lucycertified #hotswapdps",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Repulsor Brace is S tier for Gyrphalcon hunters #lucycertified #hunter",
+            "hash": 3000847393,
+            "name": "#lucycertified #hunter",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    776531651
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "#lucycertified",
+            "hash": 3000847393,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    2610012052,
+                    4104185692
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "#lucycertified",
+            "hash": 3341893443,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "#lucycertified #dps",
+            "hash": 2821430069,
+            "name": "#lucycertified #dps",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    791862061
+                ],
+                [
+                    1354429876
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Best blinding GL in the game #lucycertified #crowdcontrol",
+            "hash": 40394833,
+            "name": "#lucycertified #crowdcontrol",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    2039302152
+                ],
+                [
+                    3300816228
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Best blinding GL in the game #lucycertified #crowdcontrol",
+            "hash": 2378101424,
+            "name": "#lucycertified #crowdcontrol",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    2039302152
+                ],
+                [
+                    3300816228
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Best handcannon in the game #lucycertified",
+            "hash": 2171478765,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3038247973
+                ],
+                [
+                    3824105627,
+                    4104185692
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Best handcannon in the game #lucycertified",
+            "hash": 1216319404,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3038247973
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "The only currently available replacement for Hothead\n #lucycertified #dps",
+            "hash": 1903182562,
+            "name": "#lucycertified #dps",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    2869569095
+                ],
+                [
+                    3194351027
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "The only currently available replacement for Hothead #lucycertified #dps #warlock",
+            "hash": 1903182562,
+            "name": "#lucycertified #dps #warlock",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Doubleshot GL, better than normal GLs for both damage and blinding #lucycertified",
+            "hash": 2306182339,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3032599245,
+                    3301904089
+                ],
+                [
+                    3300816228,
+                    3523296417
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Backup in case you don't get a god roll Wendigo #lucycertified",
+            "hash": 3568377122,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
