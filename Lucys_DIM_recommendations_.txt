@@ -45,8 +45,7 @@ dimwishlist:item=768621510&perks=839105230,2680121939,1906147653,344235611
 
 
 // Aurvandil FR6 - #lucycertified (pve)
-//notes: Handling MW
-#lucycertified tags:pve
+//notes: Handling MW #lucycertified tags:pve
 dimwishlist:item=963710795&perks=1840239774,2680121939,1523832109,2978966579
 
 
@@ -75,9 +74,7 @@ dimwishlist:item=1392919471&perks=1840239774,461595545,2402480669
 
 
 // Recurrent Impact - #lucycertified  (pve)
-//notes: Reload MW 
-Certified Moops pick 
-#lucycertified  tags:pve
+//notes: Reload MW #moopscertified #lucycertified tags:pve
 dimwishlist:item=1572896086&perks=1840239774,2420895100,1409206216,1171887445
 dimwishlist:item=1572896086&perks=1840239774,2420895100,1409206216,124408337
 dimwishlist:item=1572896086&perks=1840239774,2420895100,1583705720,1171887445
@@ -85,9 +82,7 @@ dimwishlist:item=1572896086&perks=1840239774,2420895100,1583705720,124408337
 
 
 // Recurrent Impact - #lucycertified  (pve)
-//notes: Reload MW 
-Certified Moops pick 
-#lucycertified  tags:pve
+//notes: Reload MW #moopscertified #lucycertified tags:pve
 dimwishlist:item=1572896086&perks=1840239774,2420895100,2308090567,4104185692
 dimwishlist:item=1572896086&perks=1840239774,2420895100,2308090567,3007133316
 
@@ -196,9 +191,7 @@ dimwishlist:item=2272041093&perks=1840239774,1483536627,2308090567,3007133316
 
 
 // IKELOS_SR_v1.0.3 - #lucycertified #sustaineddps (pve)
-//notes: Any MW 
-Certified Moops pick <3
-#lucycertified #sustaineddps tags:pve
+//notes: Any MW #moopscertified #lucycertified #sustaineddps tags:pve
 dimwishlist:item=2302346155&perks=1840239774,106909392,848860060,2002547233
 dimwishlist:item=2302346155&perks=1840239774,106909392,1354429876,2002547233
 
