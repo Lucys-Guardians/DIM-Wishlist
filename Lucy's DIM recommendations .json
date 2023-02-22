@@ -1257,6 +1257,56 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "#moopscertified #lucycertified #burstdps",
+            "hash": 555148853,
+            "name": "#lucycertified #burstdps",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    3751912585
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "#moopscertified #lucycertified #burstdps",
+            "hash": 3183283212,
+            "name": "#lucycertified #burstdps",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    3751912585
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }

@@ -28,6 +28,11 @@ dimwishlist:item=548958835&perks=1840239774,732557052,4245865861,2675184851
 dimwishlist:item=555148853&perks=3525010810,3301904089,3300816228,3194351027,2839173408
 
 
+// Wendigo GL3 (Adept) - #lucycertified #burstdps (pve)
+//notes: #moopscertified #lucycertified #burstdps tags:pve
+dimwishlist:item=555148853&perks=3525010810,3301904089,3300816228,3751912585,2839173408
+
+
 // Forbearance - #lucycertified #addclear #crowdcontrol (pve)
 //notes: If you're looking at only crafting 1 raid weapon, this is it. #lucycertified #addclear #crowdcontrol tags:pve
 dimwishlist:item=613334176&perks=3525010810,2010801679,2396489472
@@ -279,6 +284,11 @@ dimwishlist:item=3175851496&perks=3525010810,3796465595,2308090567,1167468626
 // Wendigo GL3 - #lucycertified #burstdps (pve)
 //notes: #lucycertified #burstdps tags:pve
 dimwishlist:item=3183283212&perks=981914802,3301904089,3300816228,3194351027,2839173408
+
+
+// Wendigo GL3 - #lucycertified #burstdps (pve)
+//notes: #moopscertified #lucycertified #burstdps tags:pve
+dimwishlist:item=3183283212&perks=3525010810,3301904089,3300816228,3751912585,2839173408
 
 
 // Defiance of Yasmin - #lucycertified ()
