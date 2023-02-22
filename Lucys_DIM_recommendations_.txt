@@ -44,6 +44,11 @@ dimwishlist:item=768621510&perks=839105230,2680121939,1906147653,2978966579
 dimwishlist:item=768621510&perks=839105230,2680121939,1906147653,344235611
 
 
+// Aurvandil FR6 - #lucycertified (pve)
+//notes: Handling MW #lucycertified tags:pve
+dimwishlist:item=963710795&perks=1840239774,2680121939,1523832109,2978966579
+
+
 // Cataclysmic - #lucycertified #sustaineddps ()
 //notes: Still king for long dps phases with good ammo economy #lucycertified #sustaineddps
 dimwishlist:item=999767358&perks=1840239774,2680121939,848860060,3078487919,3363267119
@@ -66,6 +71,20 @@ dimwishlist:item=1321506184&perks=1840239774,3230963543,855168139,1183436451
 // Trustee - #lucycertified (pve)
 //notes: Great synergy between the origin trait and Incandescent #lucycertified tags:pve
 dimwishlist:item=1392919471&perks=1840239774,461595545,2402480669
+
+
+// Recurrent Impact - #lucycertified  (pve)
+//notes: Reload MW #moopscertified #lucycertified tags:pve
+dimwishlist:item=1572896086&perks=1840239774,2420895100,1409206216,1171887445
+dimwishlist:item=1572896086&perks=1840239774,2420895100,1409206216,124408337
+dimwishlist:item=1572896086&perks=1840239774,2420895100,1583705720,1171887445
+dimwishlist:item=1572896086&perks=1840239774,2420895100,1583705720,124408337
+
+
+// Recurrent Impact - #lucycertified  (pve)
+//notes: Reload MW #moopscertified #lucycertified tags:pve
+dimwishlist:item=1572896086&perks=1840239774,2420895100,2308090567,4104185692
+dimwishlist:item=1572896086&perks=1840239774,2420895100,2308090567,3007133316
 
 
 // Disparity - #lucycertified (pve)
@@ -169,6 +188,12 @@ dimwishlist:item=2221264583&perks=839105230,3230963543,1906147653,1183436451
 //notes: Just in case linears don't get nerfed into the ground #lucycertified tags:pve
 dimwishlist:item=2272041093&perks=1840239774,1483536627,2308090567,4104185692
 dimwishlist:item=2272041093&perks=1840239774,1483536627,2308090567,3007133316
+
+
+// IKELOS_SR_v1.0.3 - #lucycertified #sustaineddps (pve)
+//notes: Any MW #moopscertified #lucycertified #sustaineddps tags:pve
+dimwishlist:item=2302346155&perks=1840239774,106909392,848860060,2002547233
+dimwishlist:item=2302346155&perks=1840239774,106909392,1354429876,2002547233
 
 
 // Wilderflight - #lucycertified (pve)
@@ -339,3 +364,5 @@ dimwishlist:item=4096943616&perks=3525010810,2822142346,3528046508,3007133316
 // Heritage - #lucycertified (god-pve)
 //notes: Slug with 12 in the mag and 2x damage on the first shot #lucycertified tags:god-pve
 dimwishlist:item=4248569242&perks=1840239774,791862061,461595545,3335686050
+
+
