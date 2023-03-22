@@ -41,4 +41,4 @@ An overview of the tags used in our DIM wishlist
 -  #hunter - shows weapons that are good in combination with a hunter
 -  #addclear - great option for your add clearing needs
 -  #doublespecial - can do wonders in the right setup
-
+-  #gmpick - Good option to take into power capped content

@@ -5,12 +5,10 @@ title:Lucy's DIM recommendations
 dimwishlist:item=40394833&perks=3525010810,3032599245,2039302152,3300816228
 
 
-
 // Raconteur - #lucycertified ()
 //notes: Good bow
 dimwishlist:item=45643573&perks=852209214,3429800428,3523746922,1551736345,1823011807
 dimwishlist:item=45643573&perks=852209214,3429800428,3523746922,1171887445,1823011807
-
 
 
 // Under Your Skin - #lucycertified (pve)
@@ -33,8 +31,6 @@ dimwishlist:item=268260373&perks=3525010810,3301904089,3442762221,1720528630,182
 // Perpetualis - #lucycertified ()
 //notes: One of the better strand primaries, great for endgame
 dimwishlist:item=392008588&perks=1840239774,3230963543,3198323828,2939589096,1823011807
-
-
 
 
 // Zaouli's Bane - #lucycertified  ()
@@ -86,16 +82,19 @@ dimwishlist:item=999767358&perks=1840239774,2680121939,848860060,3078487919,3363
 dimwishlist:item=999767358&perks=1840239774,2680121939,848860060,3744057135,3363267119
 
 
+// The Hero's Burden - #lucycertified #addclear ()
+//notes: Another great void smg to add to the mix
+dimwishlist:item=1028124540&perks=3250034553,3142289711,2779035018,2048641572,4008116374
+
+
 // Fatebringer (Timelost) - #lucycertified (god-pve)
 //notes: Best handcannon in the game #lucycertified tags:god-pve
 dimwishlist:item=1216319404&perks=3250034553,106909392,3038247973,4104185692
 
 
-
 // Iterative Loop - #addclear #lucycertified ()
 //notes: One of the highest jolt modifiers, absolutely melts majors aswell
 dimwishlist:item=1289796511&perks=839105230,689005463,595108252,1720528630,164468655
-
 
 
 // Qullim's Terminus - #lucycertified #addclear ()
@@ -125,11 +124,15 @@ dimwishlist:item=1572896086&perks=1840239774,2420895100,2308090567,4104185692
 dimwishlist:item=1572896086&perks=1840239774,2420895100,2308090567,3007133316
 
 
+// Harsh Language - #lucycertified #addclear #doublespecial ()
+//notes: One of the best GLs for addclear 
+dimwishlist:item=1606497639&perks=3525010810,2822142346,2869569095,776531651,2120661319
+dimwishlist:item=1606497639&perks=3525010810,2822142346,2869569095,3108830275,2120661319
+
 
 // Royal Executioner - #addclear #lucycertified ()
 //notes: The best addclear fusions in the game, can also stand in for dps with 17 in the mag+Reservoir
 dimwishlist:item=1720503118&perks=839105230,689005463,424370782,254337357,1823011807
-
 
 
 // Disparity - #lucycertified (pve)
@@ -188,6 +191,11 @@ dimwishlist:item=1959650777&perks=3525010810,3796465595,1906147653,3007133316
 //notes: #lucycertified #dps tags:god-pve
 dimwishlist:item=1959650777&perks=3525010810,3796465595,2308090567,4104185692
 dimwishlist:item=1959650777&perks=3525010810,3796465595,2308090567,3007133316
+
+
+// Battle Scar - #lucycertified #gmpick ()
+//notes: Great kinetic option for power capped content, worse than hung jury
+dimwishlist:item=2099894368&perks=3250034553,3142289711,3619207468,3891536761,2120661319
 
 
 // IKELOS_SMG_v1.0.3 - #lucycertified (god-pve)
@@ -290,6 +298,11 @@ dimwishlist:item=2827764482&perks=1840239774,732557052,573122728,2173046394
 dimwishlist:item=2827764482&perks=1840239774,732557052,573122728,1720528630
 
 
+// Hung Jury SR4 (Adept) - #lucycertified #gmpick ()
+//notes: Shreds in power capped content
+dimwishlist:item=2883684343&perks=1840239774,106909392,247725512,3891536761,2839173408
+
+
 // Succession - #lucycertified ()
 //notes: Best general use sniper in the game #lucycertified
 dimwishlist:item=2990047042&perks=1840239774,106909392,461595545,1546637391
@@ -331,6 +344,17 @@ dimwishlist:item=3183283212&perks=981914802,3301904089,3300816228,3194351027,283
 dimwishlist:item=3183283212&perks=3525010810,3301904089,3300816228,3751912585,2839173408
 
 
+// The Immortal (Adept) - #lucycertified ()
+//notes: PvP banger
+dimwishlist:item=3193598749&perks=202670084,1885400500,2846385770,365154968,2120661319
+
+
+// The Immortal (Adept) - #lucycertified ()
+//notes: Great strand PvE smg
+dimwishlist:item=3193598749&perks=4090651448,3230963543,4071163871,3523296417
+dimwishlist:item=3193598749&perks=4090651448,3230963543,4071163871,831391274
+
+
 // Defiance of Yasmin - #lucycertified ()
 //notes: Suddenly the best DPS legendary sniper in the game #lucycertified  
 dimwishlist:item=3228096719&perks=1840239774,2420895100,3442762221,1771339417
@@ -363,14 +387,12 @@ dimwishlist:item=3428521585&perks=839105230,106909392,2938480696,859780267
 dimwishlist:item=3568377122&perks=3525010810,3523296417,3194351027
 
 
-
 // Phyllotactic Spiral - #lucycertified ()
 //notes: One of the best PvP pulses out there/Only Voltshot pulse PvE
 dimwishlist:item=3635821806&perks=839105230,1885400500,3198323828,4045335048,164468655
 dimwishlist:item=3635821806&perks=839105230,1885400500,3198323828,1720528630,164468655
 dimwishlist:item=3635821806&perks=839105230,3230963543,3198323828,4045335048,164468655
 dimwishlist:item=3635821806&perks=839105230,3230963543,3198323828,1720528630,164468655
-
 
 
 // Pardon Our Dust - #lucycertified #crowdcontrol (god-pve)
@@ -424,5 +446,20 @@ dimwishlist:item=4096943616&perks=3525010810,2822142346,3528046508,3007133316
 // Heritage - #lucycertified (god-pve)
 //notes: Slug with 12 in the mag and 2x damage on the first shot #lucycertified tags:god-pve
 dimwishlist:item=4248569242&perks=1840239774,791862061,461595545,3335686050
+
+
+// The Hothead - #lucycertified #burstdps ()
+//notes: If ammo in't an issue, it's the highest dps rocket in the game, best paired with secondary dps options and a dps super
+dimwishlist:item=4255171531&perks=3525010810,3796465595,2869569095,2284787283
+
+
+// The Hothead - #lucycertified #warlock #sustaineddps ()
+//notes: Best warlock fusion spam rocket
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3523296417,3194351027
+
+
+// The Hothead - #hotswapdps #lucycertified ()
+//notes: Best option for Izanagi's swapping
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3300816228,3194351027
 
 

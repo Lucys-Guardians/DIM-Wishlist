@@ -1307,7 +1307,6 @@
             "tags": [
                 "PVE"
             ]
-
         },
         {
             "description": "Imagin grinding for a god roll Wendigo lmao",
@@ -1470,11 +1469,203 @@
                 ]
             ],
             "tags": []
+        },
+        {
+            "description": "If ammo in't an issue, it's the highest dps rocket in the game, best paired with secondary dps options and a dps super",
+            "hash": 4255171531,
+            "name": "#lucycertified #burstdps",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    2869569095
+                ],
+                [
+                    2284787283
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Best warlock fusion spam rocket",
+            "hash": 4255171531,
+            "name": "#lucycertified #warlock #sustaineddps",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    3194351027
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Best option for Izanagi's swapping",
+            "hash": 4255171531,
+            "name": "#hotswapdps #lucycertified",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    3194351027
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Another great void smg to add to the mix",
+            "hash": 1028124540,
+            "name": "#lucycertified #addclear",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2779035018
+                ],
+                [
+                    2048641572
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Shreds in power capped content",
+            "hash": 2883684343,
+            "name": "#lucycertified #gmpick",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    247725512
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    2839173408
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "PvP banger",
+            "hash": 3193598749,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    202670084
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    365154968
+                ],
+                [
+                    2120661319
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Great strand PvE smg",
+            "hash": 3193598749,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    3523296417,
+                    831391274
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Great kinetic option for power capped content, worse than hung jury",
+            "hash": 2099894368,
+            "name": "#lucycertified #gmpick",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3619207468
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    2120661319
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "One of the best GLs for addclear ",
+            "hash": 1606497639,
+            "name": "#lucycertified #addclear #doublespecial",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    2869569095
+                ],
+                [
+                    776531651,
+                    3108830275
+                ],
+                [
+                    2120661319
+                ]
+            ],
+            "tags": []
         }
     ]
 }
-
-        }
-    ]
-}
-
