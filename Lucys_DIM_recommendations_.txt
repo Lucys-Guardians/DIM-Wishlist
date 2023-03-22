@@ -5,10 +5,36 @@ title:Lucy's DIM recommendations
 dimwishlist:item=40394833&perks=3525010810,3032599245,2039302152,3300816228
 
 
+
+// Raconteur - #lucycertified ()
+//notes: Good bow
+dimwishlist:item=45643573&perks=852209214,3429800428,3523746922,1551736345,1823011807
+dimwishlist:item=45643573&perks=852209214,3429800428,3523746922,1171887445,1823011807
+
+
+
 // Under Your Skin - #lucycertified (pve)
 //notes: Is bow #lucycertified tags:pve
 dimwishlist:item=232928045&perks=2801223209,16392701,3523746922,2652708987
 dimwishlist:item=232928045&perks=2801223209,16392701,3523746922,617966211
+
+
+// Regnant - #hotswapdps #lucycertified ()
+//notes: Imagin grinding for a god roll Wendigo lmao
+dimwishlist:item=268260372&perks=3525010810,3301904089,3528046508,2275087323
+
+
+// Prodigal Return - #addclear #doublespecial #lucycertified ()
+//notes: Alternative pick to Forbearance for when waveframes aren't cutting it
+dimwishlist:item=268260373&perks=3525010810,3301904089,2308090567,1720528630,1823011807
+dimwishlist:item=268260373&perks=3525010810,3301904089,3442762221,1720528630,1823011807
+
+
+// Perpetualis - #lucycertified ()
+//notes: One of the better strand primaries, great for endgame
+dimwishlist:item=392008588&perks=1840239774,3230963543,3198323828,2939589096,1823011807
+
+
 
 
 // Zaouli's Bane - #lucycertified  ()
@@ -65,6 +91,13 @@ dimwishlist:item=999767358&perks=1840239774,2680121939,848860060,3744057135,3363
 dimwishlist:item=1216319404&perks=3250034553,106909392,3038247973,4104185692
 
 
+
+// Iterative Loop - #addclear #lucycertified ()
+//notes: One of the highest jolt modifiers, absolutely melts majors aswell
+dimwishlist:item=1289796511&perks=839105230,689005463,595108252,1720528630,164468655
+
+
+
 // Qullim's Terminus - #lucycertified #addclear ()
 //notes: Constant health regen + group add clear #lucycertified #addclear
 dimwishlist:item=1321506184&perks=1840239774,3230963543,3108830275,3824105627
@@ -90,6 +123,13 @@ dimwishlist:item=1572896086&perks=1840239774,2420895100,1583705720,124408337
 //notes: Reload MW #moopscertified #lucycertified tags:pve
 dimwishlist:item=1572896086&perks=1840239774,2420895100,2308090567,4104185692
 dimwishlist:item=1572896086&perks=1840239774,2420895100,2308090567,3007133316
+
+
+
+// Royal Executioner - #addclear #lucycertified ()
+//notes: The best addclear fusions in the game, can also stand in for dps with 17 in the mag+Reservoir
+dimwishlist:item=1720503118&perks=839105230,689005463,424370782,254337357,1823011807
+
 
 
 // Disparity - #lucycertified (pve)
@@ -321,6 +361,16 @@ dimwishlist:item=3428521585&perks=839105230,106909392,2938480696,859780267
 // Typhon GL5 - #lucycertified (pve)
 //notes: Backup in case you don't get a god roll Wendigo #lucycertified tags:pve
 dimwishlist:item=3568377122&perks=3525010810,3523296417,3194351027
+
+
+
+// Phyllotactic Spiral - #lucycertified ()
+//notes: One of the best PvP pulses out there/Only Voltshot pulse PvE
+dimwishlist:item=3635821806&perks=839105230,1885400500,3198323828,4045335048,164468655
+dimwishlist:item=3635821806&perks=839105230,1885400500,3198323828,1720528630,164468655
+dimwishlist:item=3635821806&perks=839105230,3230963543,3198323828,4045335048,164468655
+dimwishlist:item=3635821806&perks=839105230,3230963543,3198323828,1720528630,164468655
+
 
 
 // Pardon Our Dust - #lucycertified #crowdcontrol (god-pve)

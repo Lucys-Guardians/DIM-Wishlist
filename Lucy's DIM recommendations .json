@@ -1307,6 +1307,174 @@
             "tags": [
                 "PVE"
             ]
+
+        },
+        {
+            "description": "Imagin grinding for a god roll Wendigo lmao",
+            "hash": 268260372,
+            "name": "#hotswapdps #lucycertified",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3528046508
+                ],
+                [
+                    2275087323
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Alternative pick to Forbearance for when waveframes aren't cutting it",
+            "hash": 268260373,
+            "name": "#addclear #doublespecial #lucycertified",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    2308090567,
+                    3442762221
+                ],
+                [
+                    1720528630
+                ],
+                [
+                    1823011807
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "The best addclear fusions in the game, can also stand in for dps with 17 in the mag+Reservoir",
+            "hash": 1720503118,
+            "name": "#addclear #lucycertified",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    689005463
+                ],
+                [
+                    424370782
+                ],
+                [
+                    254337357
+                ],
+                [
+                    1823011807
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "One of the highest jolt modifiers, absolutely melts majors aswell",
+            "hash": 1289796511,
+            "name": "#addclear #lucycertified",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    689005463
+                ],
+                [
+                    595108252
+                ],
+                [
+                    1720528630
+                ],
+                [
+                    164468655
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "One of the better strand primaries, great for endgame",
+            "hash": 392008588,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3198323828
+                ],
+                [
+                    2939589096
+                ],
+                [
+                    1823011807
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Good bow",
+            "hash": 45643573,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    852209214
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    3523746922
+                ],
+                [
+                    1551736345,
+                    1171887445
+                ],
+                [
+                    1823011807
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "One of the best PvP pulses out there/Only Voltshot pulse PvE",
+            "hash": 3635821806,
+            "name": "#lucycertified",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500,
+                    3230963543
+                ],
+                [
+                    3198323828
+                ],
+                [
+                    4045335048,
+                    1720528630
+                ],
+                [
+                    164468655
+                ]
+            ],
+            "tags": []
         }
     ]
 }
+
+        }
+    ]
+}
+

@@ -39,3 +39,6 @@ An overview of the tags used in our DIM wishlist
 -  #warlock - shows weapons that are good in combination with a warlock
 -  #titan - shows weapons that are good in combination with a titan
 -  #hunter - shows weapons that are good in combination with a hunter
+-  #addclear - great option for your add clearing needs
+-  #doublespecial - can do wonders in the right setup
+
